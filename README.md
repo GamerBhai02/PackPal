@@ -1,3 +1,3 @@
 # PackPal
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/GamerBhai02/PackPal)
+Enter your travel details and let PackPal help you pack smartly based on your destination, weather forecast, and trip purpose. Never forget an essential item again!
